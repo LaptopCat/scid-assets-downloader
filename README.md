@@ -1,5 +1,5 @@
 # Supercell ID Assets Downloader
-Asset downloader for the in-game Supercell ID panel that is in Supercell games
+Asset downloader for the in-game Supercell ID panel in Supercell games (brawl stars, clash royale, etc)
 
 - Fast (using concurrency)
 - Download images, video, audio, localizations (you can select target quality of images, strings locale or just download everything)

@@ -10,7 +10,7 @@ import (
 	"github.com/valyala/fasthttp"
 )
 
-// Download best quality by default
+// Download best quality and english localizations by default
 var cfg = Config{
 	IOSImageQuality:     Images3x,
 	AndroidImageQuality: XXXHDPI,

@@ -13,7 +13,7 @@ Asset downloader for the in-game Supercell ID panel that is in Supercell games
 2. Download required modules
 > `go mod download`
 3. Configure (optional)
-> Below the top of the `main.go` file, there is a `cfg` variable, in which you can edit the config4
+> Below the top of the `main.go` file, there is a `cfg` variable, in which you can edit the config
 4. Build the program
 > `go build main.go`
 > This drops a `main` binary in the project folder
